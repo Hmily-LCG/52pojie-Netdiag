@@ -16,25 +16,25 @@
 ## 下载地址
 
 - GitHub Releases：<https://github.com/Hmily-LCG/52pojie-Netdiag/releases>
-- 爱盘直链：<https://down.52pojie.cn/Tools/Other/吾爱破解论坛网络诊断修复工具_v3.0.exe>
+- 爱盘直链：<https://down.52pojie.cn/Tools/Other/吾爱破解论坛网络诊断修复工具.exe>
 - 百度网盘：<https://pan.baidu.com/s/1mgLu7iS>
-- 蓝奏云：<https://www.lanzouu.com/ixETV3wj3g0j>
+- 蓝奏云：<https://www.lanzouu.com/b00g4c97af> 密码:52pj
 - 阿里云盘：<https://www.alipan.com/s/whPgVVHMKKb>
 
 ### 文件校验
 
 | 项目 | 值 |
 | --- | --- |
-| 文件名 | 吾爱破解论坛网络诊断修复工具_v3.0.exe |
-| 文件大小 | 2,512,384 字节（约 2.40 MB） |
-| MD5 | `076a64a9fb39cad2078e6ecfff9bd197` |
-| SHA256 | `8fdc3838af943c3b995509bb3ef1feefa0f82cc6803843eb7580a1095d41d892` |
+| 文件名 | 吾爱破解论坛网络诊断修复工具_v3.1.exe |
+| 文件大小 | 2,513,408 字节（约 2.40 MB） |
+| MD5 | `efd543b14c99ea81a271ca9cce665743` |
+| SHA256 | `da737ad487471ee729b424aecd1e0b34a148262281630e1262d9f4339ad8ca3d` |
 
 下载后建议校验文件 hash，确认文件完整且未被篡改。可在命令提示符（CMD）中执行：
 
 ```
-certutil -hashfile 吾爱破解论坛网络诊断修复工具_v3.0.exe MD5
-certutil -hashfile 吾爱破解论坛网络诊断修复工具_v3.0.exe SHA256
+certutil -hashfile 吾爱破解论坛网络诊断修复工具_v3.1.exe MD5
+certutil -hashfile 吾爱破解论坛网络诊断修复工具_v3.1.exe SHA256
 ```
 
 ## 界面预览
