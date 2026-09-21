@@ -24,16 +24,16 @@
 
 | 项目 | 值 |
 | --- | --- |
-| 文件名 | 吾爱破解论坛网络诊断修复工具_v3.2.exe |
-| 文件大小 | 2,638,848 字节（约 2.52 MB） |
-| MD5 | `df78f0e872cf8b280f755cb27a18ec1e` |
-| SHA256 | `8dc96286315ce0fa5a3061cc8790e50d2b123cbad2e08cf0e1d4aa932fc21c68` |
+| 文件名 | 吾爱破解论坛网络诊断修复工具_v3.3.exe |
+| 文件大小 | 2,672,128 字节（约 2.55 MB） |
+| MD5 | `b7d388c4093038db87dd9aa5473c1cb9` |
+| SHA256 | `7dba0ba230affe9f087bc83aa97abc73dc49c0e30263b819e5ce98e9d8688e63` |
 
 下载后建议校验文件 hash，确认文件完整且未被篡改。可在命令提示符（CMD）中执行：
 
 ```
-certutil -hashfile 吾爱破解论坛网络诊断修复工具_v3.2.exe MD5
-certutil -hashfile 吾爱破解论坛网络诊断修复工具_v3.2.exe SHA256
+certutil -hashfile 吾爱破解论坛网络诊断修复工具_v3.3.exe MD5
+certutil -hashfile 吾爱破解论坛网络诊断修复工具_v3.3.exe SHA256
 ```
 
 ## 界面预览
